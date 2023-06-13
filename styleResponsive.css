@@ -1,0 +1,1334 @@
+@media only screen and (max-width: 1481px) {}
+
+
+@media only screen and (max-width: 1199px) {
+
+    .topUl li {
+        flex:1;
+    }
+
+    .imgLi img {
+        width: 300px;
+    }
+
+    .menuMacro li span,
+    .menuMacro li label {
+        font-size: 13px;
+    }
+
+    .tm_ul li label {
+        font-size: 14px;
+        margin-bottom: 3px;
+    }
+
+    .foodUL li {
+    width: 31.3%;
+}
+
+}
+
+
+@media only screen and (max-width: 993px) {
+
+    /*.logoSpan,
+    .logoTagline {
+        display: none;
+    }
+
+    
+    .logoText img {
+        position: relative;
+    }*/
+    
+    .TopliMid {
+        display: none;
+    }
+
+    .locationDiv {
+        vertical-align: 3px;
+        margin-left: 0px;
+    }
+
+    .fixmenu {
+
+        display: block;
+        position: fixed;
+        text-align: center;
+        top: 67px;
+        width: 100%;
+
+    }
+
+    .fixMenuUl {
+        display: flex;
+    }
+
+    .fixMenuUl li {
+        display: inline-block;
+        margin: 0px 0px;
+        flex: 1;
+        text-align: center;
+    }
+
+    .fixMenuUl li a {
+        background-color: #F8FBF5;
+        display: inline-block;
+        width: 100%;
+        padding: 9px 3px;
+        font-weight: 500;
+    }
+
+
+    .bannerhead {
+        font-size: 40px;
+        margin-bottom: 27px;
+    }
+
+    .sm_Head h2 {
+        font-size: 40px;
+    }
+
+    .bannerimg {
+        width: 130%;
+        margin-top: 30px;
+        margin-left: -30px;
+    }
+
+    .qtnbg h2 {
+        position: relative;
+        transform: unset;
+        font-size: 36px;
+    }
+
+    .qtnbg {
+        padding: 50px 0px;
+    }
+
+    .qtnUl {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .qtnUl>li {
+        width: 100%;
+    }
+
+    .qtnli {
+        padding: 25px 25px 0px 25px;
+    }
+
+    .qtnUl {
+        margin-bottom: 0;
+    }
+
+    .menutabs_div ul {
+        top: 65px;
+    }
+
+    .productDetailSec {
+        padding-top: 82px;
+    }
+
+    .foodDetails_div {
+        margin-top: 130px;
+    }
+
+    .foodDetails_div h2 {
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
+
+    .pd_catLabel {
+        font-size: 17px;
+    }
+
+    .foodDetails_div p {}
+
+    .likeprod_outer .foodDetails_div {
+        margin-top: 0px;
+    }
+
+    .listbgimg {
+        height: 210px;
+    }
+
+    .sechead,
+    .ingHead {
+        font-size: 22px;
+    }
+
+    .likeprod_ul {
+        margin-top: 18px;
+        width: 100%;
+    }
+
+    .sechead a {
+        margin-top: 8px;
+    }
+
+    .ingradsliderSec {
+        margin-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .ingHead {
+        margin-bottom: 35px
+    }
+
+    .likeSec {
+        margin-top: 11px;
+        padding-bottom: 35px;
+    }
+
+    .cartSec a {
+        margin-top: 0px;
+    }
+
+    .cartSec,
+    .deliveryDiv h2 {
+        margin-bottom: 23px;
+        font-size: 22px;
+    }
+
+    .deliveryDiv h2 {
+        margin-bottom: 0px;
+    }
+
+    .shoppingcartSec {
+        margin-top: 70px;
+    }
+
+    .sc_item {
+        margin-bottom: 0px;
+    }
+
+    .billHead a {
+        margin-top: -2px;
+        padding: 3px 15px;
+    }
+
+    .comboul>.comboLi {
+        min-width: 349px;
+        border-right: 10px solid #fff;
+    }
+
+    .pi_ul li {
+        width: 100%;
+    }
+
+    .pi_ul li:nth-child(even) {
+        padding-left: 0px;
+    }
+
+    .userUl li {
+        float: left;
+        width: 50%;
+        padding-right: 15px;
+    }
+
+    .orderhistory_div .panel-title label {
+        font-size: 13px;
+        margin-top: 6px;
+    }
+
+    .ma_view_ul li {
+    float: left;
+    width: 100%;
+    margin-bottom: 18px;
+    padding: 0px !important;
+}
+
+.foodUL li {
+    width: 48%;
+}
+
+.topUl li
+{
+    flex: auto;
+}
+
+.sc_outer {
+    padding-right: 0px;
+}
+
+.sc_outer
+{
+margin-bottom: 22px;
+}
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .testiM {
+        display: none;
+    }
+   
+    .logoText img {
+        margin-right: 2px;
+    }
+
+    .logoText
+    {
+     width: 220px;  
+    }
+
+    .userul li a img {
+        width: 19px !important;
+    }
+
+    .userul li a {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .userul li {
+        float: left;
+        padding: 0px 8px;
+    }
+
+    .locationDiv label {
+        font-size: 13px;
+    }
+
+    .userul li a span {
+        display: none;
+    }
+
+    .lblLoc span {
+        width: 30px;
+        height: 30px;
+        line-height: 28px;
+    }
+
+    #mySidenav li {
+        padding: 0px 15px;
+    }
+
+    .imgLi img {
+        right: 0;
+        width: 160px;
+        position: absolute;
+        top: 80%;
+        transform: translateY(-50%);
+    }
+
+    .sidenav {
+        padding-top: 35px;
+    }
+
+    .callfixDiv {
+
+    }
+
+    .bannerhead {
+        font-size: 32px;
+    }
+
+    .resPadZero {
+        padding: 0;
+    }
+
+    .bannerBullet li p {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .bannerimg {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .qtnli {
+        padding: 15px 15px 0px 15px;
+    }
+
+    .qtnbg h2 {
+        font-size: 28px;
+    }
+
+    .qtnbg {
+        padding: 40px 0px;
+    }
+
+    .cat label input+span {
+        min-width: 96px;
+    }
+
+    .cat {
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+    .qtnTitle {
+        margin-bottom: 4px;
+        font-size: 15px;
+    }
+
+    .sm_section {
+        margin-bottom: 20px;
+        display: none;
+    }
+
+    .tablink {
+        font-size: 18px;
+        padding-bottom: 8px;
+    }
+
+    .cb_head {
+        font-size: 24px;
+    }
+
+    .cb_span {
+        margin-bottom: 0px;
+        margin-top: 8px;
+        font-size: 15px;
+    }
+
+    .cb_price {
+        font-size: 32px;
+    }
+
+    .cb_price img {
+        width: 14px;
+    }
+
+    .combo_data_div label {
+        font-size: 15px;
+    }
+
+    .clkcal {
+        font-size: 13px;
+    }
+
+    .macrosDiv span {
+        font-size: 12px;
+    }
+
+    .macrosDiv {
+        margin-top: 2px;
+    }
+
+    footer {
+        margin-top: 40px;
+        padding-top: 40px;
+    }
+
+    .footerCol {
+        margin-bottom: 20px;
+    }
+
+    .footmenuul {
+        margin-top: 10px;
+        padding: 20px 0px;
+        margin-bottom: 25px;
+    }
+
+    .footsocialUl li a {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+
+    .footsocialUl li {
+        margin: 0px 4px;
+    }
+
+    .footsocialUl {
+        margin-bottom: 17px;
+    }
+
+    .copyPara {
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
+
+    .footerCol label {
+        margin-bottom: 2px;
+    }
+
+    .comboBanner_div {
+        padding: 21px 0px 0px 0px;
+    }
+
+    .ms_Div img {
+        height: 100px;
+    }
+
+    .ms_Div label {
+        font-size: 14px;
+    }
+
+    .ms_Div>span {
+        padding: 3px 9px;
+    }
+
+    .bannerhead, .sm_Head h2 {
+        font-size: 28px;
+    }
+
+    .sm_section {
+        padding: 38px 0px;
+    }
+
+    .swiper-slide.swiper-slide-active .ms_Div img {
+        height: 150px;
+    }
+
+    .searchdiv {
+        right: 0px;
+        top: 65px;
+        width: 100%;
+    }
+
+    .menutabs_div ul {
+        padding: 11px 0px 15px 0px;
+    }
+
+    .menutabs_div ul li {
+        display: inline-block;
+        margin: 0px 4px;
+    }
+
+    .menutabs_div ul li a img {
+        width: 40px;
+    }
+
+    .menutabs_div ul li a {
+        width: 100%;
+        font-size: 13px;
+        padding: 6px 4px 4px 4px;
+        height: 78px;
+        min-width: 140px;
+    }
+
+    .menutabs_div ul {
+        padding: 11px 10px 15px 10px;
+        overflow-x: auto;
+        display: flex;
+        flex-wrap: inherit;
+    }
+
+    .menutabs_div ul li {
+        margin: 0px 7px;
+        flex: 1;
+    }
+
+    .menusec {
+        margin-top: 52px;
+        padding-top: 129px;
+    }
+
+
+    .menusec {
+        margin-top: 45px;
+        padding-top: 129px;
+    }
+
+    .menuImg {
+        min-width: 166px;
+        text-align: left;
+        margin-bottom: 9px;
+    }
+
+    .mProdImg {
+        width: 130px;
+    }
+
+    .menuDatali {
+        display: inline-block;
+    }
+
+    .menuMacro li span {
+        display: block;
+    }
+
+    .menutabs_div ul {
+        top: 66px;
+    }
+
+    .menuDatali {
+        margin: 8px 0px;
+        min-width: 100%;
+    }
+
+    .avntype {
+        margin-top: 0px;
+    }
+
+
+    .avntype .cat {
+        margin-bottom: 7px;
+        margin-right: 7px;
+    }
+
+    .menuMacro li {
+        flex: auto;
+    }
+
+    .pd_catLabel {
+        font-size: 14px;
+    }
+
+    .pd_catLabel span {
+        font-size: 12px;
+    }
+
+    .ingradDiv span {
+        width: 150px;
+        height: 150px;
+    }
+
+    .sechead a {
+        margin-top: 4px;
+    }
+
+    .cartList {
+        flex-wrap: wrap;
+        padding-bottom: 18px;
+        border-bottom: 1px solid #e8eee0;
+    }
+
+    .sc_item {
+        min-width: 100%;
+    }
+
+    .cartList>li {
+        flex: auto;
+    }
+
+    .sc_Action {
+        text-align: right;
+    }
+
+    .sc_qty {
+        padding: 0px 14px 0px 0px;
+    }
+
+    .sc_totalprice {
+        text-align: right;
+    }
+
+    .tabtblhead {
+        display: none;
+    }
+
+    .tm_ul {
+        margin: 0;
+    }
+
+    .totalmacros_div h2 {
+        font-size: 18px;
+    }
+
+    .totalmacros_div .btnGreen {
+        margin-top: 12px;
+    }
+
+    .billTable td label {
+        margin-left: 7px;
+        font-size: 13px;
+    }
+
+    .billTable td {
+        padding: 15px 8px;
+
+        font-size: 13px;
+    }
+
+    .billTable th {
+        white-space: nowrap;
+        padding: 16px 9px;
+        font-size: 13px;
+    }
+
+    .da_th {
+        display: flex;
+    }
+
+    .deliveryDiv label {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+
+    .billTable {
+        margin-bottom: 0px;
+    }
+
+    .sc_outer {
+        padding-right: 0px;
+    }
+
+    .checkmark {
+        height: 20px;
+        width: 20px;
+    }
+
+    .fancyCheck .checkmark:after {
+        left: 6px;
+        top: 3px;
+        width: 7px;
+        height: 11px;
+    }
+
+    .billTable label {
+        padding-left: 23px;
+    }
+
+    .paymentDiv label {
+        padding-left: 30px;
+    }
+
+    .paymentDiv .fancyCheck {
+        font-size: 16px;
+    }
+
+    .paymentDiv {
+        min-height: 80px;
+    }
+
+    .paymentUL li img {
+        float: right;
+        height: 27px;
+    }
+
+    .paymentOuter .billHead {
+        margin-bottom: 10px;
+    }
+
+    .dayData_div {
+        margin-bottom: 29px;
+    }
+
+    .ms_Div {
+        height: 248px;
+    }
+
+    .congOuter {
+        width: 90%;
+    }
+
+    .congText h2 {
+        font-size: 24px;
+        margin-bottom: 3px;
+    }
+
+    .odrSummary {
+        margin-top: 14px;
+    }
+
+    .congText {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .odrSummary {
+        font-size: 18px;
+    }
+
+    .ty_pd_div {
+        margin-bottom: 9px;
+    }
+
+    .ty_plan {
+        font-size: 17px;
+    }
+
+    .up_commanDiv {
+        padding: 25px 15px;
+        margin-bottom: 14px;
+    }
+
+    .up_commanDiv h3 {
+        font-size: 20px;
+    }
+
+    .userProfileSec {
+        margin-top: 61px;
+    }
+
+    .userTabs .nav-tabs {
+        width: 100%;
+        display: flex;
+        overflow-x: auto;
+        flex-wrap: unset;
+    }
+
+    .userTabs .nav-tabs li {
+        min-width: 134px;
+    }
+
+    .userTabs .nav-tabs li a {
+        display: block;
+        font-weight: 600;
+        white-space: nowrap;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .userTabs .nav-tabs li a.active::after {
+        content: "";
+        display: inline-block;
+        border-bottom: 3px solid #7eb23a;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+
+    .up_outer_tab {
+        padding: 13px 15px;
+    }
+
+    .userUl li {
+        margin-bottom: 15px;
+    }
+
+    .up_commanDiv h3 {
+        font-size: 18px;
+    }
+
+    .up_viewmode h3 a {
+        margin-top: -2px;
+    }
+
+    .oh_macrosul li {
+        margin-right: 11px;
+        flex: auto;
+    }
+
+    .oh_macrosul li span {
+        font-size: 12px;
+    }
+
+    .oh_macrosul li label {
+        font-size: 13px;
+    }
+
+    .orderhistory_div .panel-title label {
+        margin-top: 2px;
+    }
+
+    .if_title {
+    font-size: 16px;
+}
+
+.if_price span img {
+    width: 9px;
+}
+
+.if_price span {
+    font-size: 20px;
+}
+
+.if_pop img
+{
+height: 36px;
+}
+
+.foodUL li {
+    width: 46%;
+}
+
+.foodUL li {
+    margin: 2%;
+}
+
+.if_title {
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 0;
+}
+
+.logoSpan {
+    font-size: 21px;
+    margin-bottom: -2px;
+}
+
+.logoTagline
+{
+    font-size: 12px;
+    letter-spacing: 2.7px;
+}
+
+.callfixDiv
+{
+     padding: 4px 8px 3px 8px;
+     right: 0px;
+}
+
+.callfixDiv:hover
+{
+ right: px;
+}
+
+.callfiximg span
+{
+    width: 35px;
+    height: 35px;
+    line-height: 34px;
+    border-radius: 60px;
+    margin-right: 5px;   
+}
+
+.callfiximg span img
+{
+    width: 18px;
+}
+
+.callfixdata span
+{
+      font-size: 13px;
+    margin-bottom: -3px;  
+}
+
+.callfixdata label {
+    font-size: 16px;
+}
+
+
+
+.callfixDiv {
+    right: -117px;
+}
+
+.callfixDiv:hover {
+    right: 0px;
+}
+
+.wa_order
+{
+ left: -178px;
+}
+
+.wa_order:hover
+{
+ left: 0px;
+}
+
+.bannerBullet
+{
+    margin: 0;
+}
+
+.qtnLabel {
+    margin-bottom: 8px;
+    margin-top: 13px;
+}
+
+.orderCallul {
+    width: 100%;
+    padding: 0px 8px;
+    display: flex;
+}
+
+.orderCallul li {
+    margin: 0px 7px;
+}
+
+.orderCallul li a img {
+    height: 36px;
+    }
+
+.foodPopup .modal-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+}
+
+
+@media only screen and (max-width: 576px) {
+    .testiM {
+        display: none;
+    }
+    .offtxt {
+        position: relative;
+        left: 13px !important;
+        font-size: 11px !important;
+        font-weight: 600;
+        color: #38b4a8 !important;
+      }
+    .footerCol {
+        margin-bottom: 22px;
+    }
+
+    .searchdiv {
+        right: 0px;
+        top: 65px;
+        width: 100%;
+    }
+
+    .billingUL li input {
+        height: 40px;
+        margin-bottom: 9px;
+    }
+
+    .billingUL li textarea {
+        margin-bottom: 9px;
+    }
+
+    .billingUL li label {
+        font-size: 14px;
+    }
+
+    .orderhistory_div .panel-title label {
+        display: inline-block;
+        width: 100%;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 480px) {
+    .testiM {
+        display: none;
+    }
+    .new-contact {
+        position: fixed;
+        top: 50px;
+        width: 36%;
+        color: #fff;
+      }
+      .newrdoBtm{
+        position: relative;
+        bottom: 30px;
+      }
+      .radiDiv{
+        position: relative;
+        bottom: 20px;
+      }
+/*     .new-contact {
+        position: fixed;
+        top: 50px;
+        width: 40%;
+        color: #fff;
+      }
+      .radiDiv{
+        position: relative;
+        bottom: 30px;
+      }
+      .radDiv{
+        position: relative;
+        bottom: 60px;
+      }
+      .radDivi{
+        position: relative;
+        bottom: 90px;
+      }
+    .loginDiv {
+        width: 90% !important;
+    } */
+
+    .popmacrosul li div span {
+        font-size: 13px;
+    }
+
+    .popmacrosul li div label {
+        font-size: 13px;
+    }
+
+    .cat label input+span {
+        min-width: 80px;
+    }
+
+    .menuMacro li span {
+        font-size: 13px;
+    }
+
+    .menuMacro li label {
+        font-size: 13px;
+    }
+
+    .loadmore {
+        padding: 12px 95px;
+        width: 100%;
+    }
+
+    .sliderDiv span img {
+        width: 200px;
+    }
+
+    .productDetailSec .carousel-item div {
+        min-height: 300px;
+    }
+
+    .sliderIndiul {
+        left: unset;
+        width: 100%;
+        right: unset;
+        margin: 0;
+        overflow-x: auto;
+        bottom: -97px;
+    }
+
+    .left50 {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .left50 div.mr15 {
+        margin-right: 0px;
+    }
+
+    .paymentDiv .fancyCheck {
+        font-size: 14px;
+    }
+
+    .paymentUL li img {
+        height: 24px;
+    }
+
+    .up_pro_div .btnGreen {
+        padding: 8px 25px;
+        width: 100%;
+    }
+
+.foodUL {
+    padding: 0px 7px;
+}
+
+  .foodUL li
+{
+    padding: 14px 10px 5px 10px; 
+    width: 46%;
+    margin: 2%;   
+}
+
+    .if_img {
+    height: 105px;
+}
+
+.if_title
+{
+        margin-top: 2px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+
+.ic_tabs li a
+{
+        min-width: 100%;
+}
+
+.ic_tabs li
+{
+        flex: 1;
+}
+
+.ic_tabs
+{
+    display: flex;
+    flex-wrap: revert;
+    padding: 0px 8px;
+        margin-top: 20px;
+}
+
+.ic_tabs
+{
+
+}
+
+.foodPopup .if_title
+{
+    font-size: 13px;
+    line-height: 17px;    
+}
+
+.foodPopup .if_kcal {
+    font-size: 13px;
+}
+
+.if_title {
+    margin-top: 10px;
+    line-height: 18px;
+    margin-bottom: 0;
+}
+
+.if_price {
+    font-size: 12px;
+    margin: 0;
+}
+
+
+
+.if_pop {
+    font-size: 13px;
+    white-space: nowrap;
+    padding: 3px 0px 0px 5px;
+
+}
+
+.if_pop img {
+display: none;
+}
+
+.if_title {
+    min-height: 36px;
+}
+
+.foodUL li {
+    padding: 14px 10px 14px 10px;
+    font-size: 12px;
+}
+
+.foodPopup .if_img
+{
+     width: 55px;   
+}
+.foodPopup .foodUL li {
+    padding-left: 81px;
+}
+.howitImg1 {
+    top: -19px;
+    width: 121px;
+}
+
+.howCounter {
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    font-size: 21px;
+}
+
+.howDiv label {
+    margin-top: 10px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.howDiv2, .howDiv3, .howDiv4 {
+    margin-top: 24px;
+}
+
+.innerHeadHow
+{
+    margin-bottom: 35px;
+}
+.card-header {
+    padding: 0.rem 1.25rem !important;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+  }
+
+  .faqQue {
+    display: block;
+    width: 360px;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 5px;
+    margin-top: 90px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 4px 15px rgb(227 233 221);
+    margin-bottom: 35px;
+  }
+.mblTxt{
+    padding: 10px;
+}
+.mblcrd{
+    padding: 1px
+}
+.abtPa{
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+}
+.abtImg{
+    position: relative;
+    height: 250px;
+    left: 30px;
+}
+.faqTxt{
+    padding: 8px;
+}
+.mobInpt{
+    position: relative;
+    bottom: 20px;
+}
+.mobInptN{
+    position: relative;
+    bottom: 40px;
+}
+.amtRes{
+    position: relative;
+    left: 90px;
+    bottom: 32px;
+}
+.newAmtR{
+    position: relative;
+    bottom: 45px;
+    left: 25px;
+}
+.totAmtR{
+    position: relative;
+    bottom: 80px;
+}
+.qunTxtR{
+    position: relative;
+    right: 55px;
+}
+.newHeiR{
+    height: 200px;
+}
+/* .menuDatali {
+    float: left;
+    border: 1px solid #EEF3E8;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    position: relative;
+    bottom: 8px;
+    height: 350px;
+  }
+  input {
+    height: 45px;
+    width: 50%;
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 0px 23px;
+      padding-top: 0px;
+      padding-right: 23px;
+      padding-bottom: 0px;
+      padding-left: 23px;
+    outline: 0;
+    color: #444;
+    margin-bottom: 15px;
+    border: 1px solid #E8EEE0;
+  }
+  .rupImg {
+    position: relative;
+    z-index: 1;
+    height: 18px;
+    left: 18px;
+    bottom: 12px !important;
+    top: none !important;
+  } */
+  .rupImgN {
+    position: relative;
+    z-index: 1;
+    height: 18px;
+    left: 25px;
+    bottom: 47px;
+  }
+  .offtxt {
+    position: relative;
+    left: 13px !important;
+    font-size: 11px !important;
+    font-weight: 600;
+    color: #38b4a8 !important;
+  }
+ .upcomgF{
+    position: relative;
+    width: 100%;
+    left: 0px;
+  }
+}
